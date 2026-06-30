@@ -1,2 +1,0 @@
-# Stylo
-Salon
